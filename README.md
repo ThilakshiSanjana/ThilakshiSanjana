@@ -1,5 +1,5 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Chathushka Sanjaya</h1>
+<h1 align="center">Hi 👋, I'm Thilakshi Sanjana</h1>
 </p>
 
 <p align="center">
@@ -71,10 +71,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/chathushka-sanjaya-0604a7329/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="ChathushkaSanjaya" height="50" width="50" /></a>
-<a href="https://web.facebook.com/profile.php?id=61574134659673" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Chathushka Sanjaya" height="50" width="50" /></a>
-<a href="https://www.instagram.com/chathushka_sanjaya__?igsh=MXYyZXdwOWUyamRlZg%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="chathushka_sanjaya__" height="50" width="50" /></a>
-<a href="mailto:chathushkasanjaya.1124@gmail.com" target="blank">
+<a href="https://www.linkedin.com/in/thilakshi-sanjana-senarath-68aa52325" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="ThilakshiSanjana" height="50" width="50" /></a>
+<a href="https://www.facebook.com/share/1AUZ7W7sZA/?mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Thilakshi Sanjana" height="50" width="50" /></a>
+<a href="https://www.instagram.com/sanjana.thilakshi?igsh=OHl1bHRpOXdyNzd0&utm_source=qr" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="@SANJANA.THILAKSHI__" height="50" width="50" /></a>
+<a href="mailto:senarathsanjana1@gmail.com" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="50" width="50" /></a>
 </p>
 
