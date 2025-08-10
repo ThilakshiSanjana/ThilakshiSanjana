@@ -16,7 +16,7 @@
 
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=ChathushkaSanjaya1&label=Profile%20views&color=0e75b6&style=flat" alt="ChathushkaSanjaya1" /> 
+	<img src="https://komarev.com/ghpvc/?username=ThilakshiSanjana&label=Profile%20views&color=0e75b6&style=flat" alt="ThilakshiSanjana" /> 
 	<img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
 </p>
 
@@ -26,6 +26,8 @@
 
 - 👨‍💻 Studying **Master of Science in IT & Strategic Innovation** at **Kingston University (UK)**.
 - 🎓 Studied **BEng (Hons) in Software Engineering** at **London Metropolitan University**.
+- 🎓 Studied **HND in Computing Software Engineering** at **Pearson BTEC**.
+- 🎓 Studied **AAT** at **Association of Accounting Technicians of Sri Lanka**.
 - 🌐 Passionate about building scalable and efficient web applications.
 - 🚀 Enjoy working alongside creative minds to bring ideas to life.
 - 📈 Dedicated to continuous improvement and staying ahead in tech.
@@ -81,4 +83,4 @@
 ---
 
 <h3 align="center">Support:</h3>
-<p align="center"><a href="https://buymeacoffee.com/chathushka8"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Chathushka Sanjaya" /></a></p>
+<p align="center"><a href="https://buymeacoffee.com/chathushka8"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Thilakshi Sanjana" /></a></p>
