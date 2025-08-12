@@ -1,4 +1,4 @@
-<p align="center" ><img  src = "https://i.pinimg.com/736x/7a/87/81/7a8781168fde99a52044ab01c6968599.jpg" width = 100px></p>
+<p align="center" ><img  src = "https://media.tenor.com/IF2JdxzmyN4AAAAm/coding-girl.webp" width = 250px></p>
 <h1 align="center">Hi 👋, I'm Thilakshi Sanjana</h1>
 </p>
 
@@ -22,7 +22,7 @@
 
 ## 👀 About Me
 
-<picture> <img align="right" src="https://media.tenor.com/QLh0PhunTj8AAAAM/anime-typing.gif" width = 250px></picture>
+<picture> <img align="right" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif" width = 250px></picture>
 
 - 👨‍💻 Studying **Master of Science in IT & Strategic Innovation** at **Kingston University (UK)**.
 - 🎓 Studied **BEng (Hons) in Software Engineering** at **London Metropolitan University**.
